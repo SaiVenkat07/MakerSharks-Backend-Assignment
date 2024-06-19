@@ -41,7 +41,3 @@
         "password": "password"
     }
     ```
-
-## H2 Database Console
-
-Access the H2 console at:
